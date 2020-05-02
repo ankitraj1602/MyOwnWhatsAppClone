@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatBox</string>
+    <string name="hop_In">Already have a Account ? Log In.. </string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">xJ0jtCZUmjvbz9AhghFgVklgWBO42Wn0pGVsWAYz</string>
+    <string name="back4app_client_key">g62epomyT7TKbEvl7hLKBuXAEurj0KmvQmvybZ3f</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
